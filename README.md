@@ -4,3 +4,4 @@ Github update test
 This change is made on the conflict branch.
 This change is made on the main branch.
 This change is from the main branch.
+This is a new feature.
